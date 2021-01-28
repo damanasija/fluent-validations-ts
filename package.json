@@ -1,0 +1,15 @@
+{
+  "name": "fluent-validtions-ts",
+  "version": "1.0.0",
+  "description": "Fluent validations for ts using builder, CoR and composite pattern",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com-damanasija:damanasija/fluent-validtions-ts.git"
+  },
+  "author": "damanasija",
+  "license": "MIT"
+}
